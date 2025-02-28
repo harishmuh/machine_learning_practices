@@ -1,2 +1,2 @@
 # machine_learning_practices
-Collection of machine learning practice
+Collection of machine learning practices
