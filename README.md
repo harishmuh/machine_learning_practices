@@ -7,7 +7,11 @@ This repository contains some FREE TUTORIALS of machine learning for beginners. 
 * Basic Python for machine learning [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
 
 ## Supervised Machine Learning - Regression
-* Exercise - linear regression (University rank admission) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)
-* Exercise - linear regression (Horsepower and mpg) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb) 
-* Exercise - linear regression (California house price) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)
-* Exercise - linear regression (California house price and map) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)
+* Exercise - linear regression (University admission prediction) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)
+* Exercise - linear regression (Horsepower and predicting mpg) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb) 
+* Exercise - linear regression (California house price prediction I) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)
+* Exercise - linear regression (California house price prediction II) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)
+
+## Supervised Machine Learning - Classification
+* Exercise - Binary Classification (Churn prediction - streaming service) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)
+* Exercise - Binary Classification (Diabetes early risk prediction) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)
