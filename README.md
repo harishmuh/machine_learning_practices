@@ -15,3 +15,8 @@ This repository contains some FREE TUTORIALS of machine learning for beginners. 
 ## Supervised Machine Learning - Classification
 * Exercise - Binary Classification (Churn prediction - streaming service) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)
 * Exercise - Binary Classification (Diabetes early risk prediction) [Click here](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)
+
+## Portfolio Building
+* Machine learning for health sectors and bioinformatics [Click here](https://github.com/harishmuh/machine_learning_projects/tree/main)
+* Machine learning for customer-centric industries [Click here](https://github.com/harishmuh/machine_learning_projects/tree/main)
+* Machine learning for price prediction [Click here](https://github.com/harishmuh/machine_learning_projects/tree/main)
