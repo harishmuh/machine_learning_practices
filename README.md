@@ -9,7 +9,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ## 📂 Tutorial Contents  
 
 ### 🔹 Fundamental Python for Machine Learning
-📌 Introduction to Python for Machine Learning → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)  
+* Introduction to Python for machine learning → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
+* Fundamental Python (exercise) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
 
 ---
 
