@@ -25,6 +25,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
 ---
+### 🔹 Model Evaluation
+* Metrics - Classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
+
+---
 ### 🔹 Supervised Machine Learning tutorial - Regression  
 📌 **Linear Regression**  
 * University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
