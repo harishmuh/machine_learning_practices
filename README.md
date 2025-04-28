@@ -22,6 +22,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ### 🔹 Modelling
 * Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
+* Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
 ---
 ### 🔹 Supervised Machine Learning tutorial - Regression  
