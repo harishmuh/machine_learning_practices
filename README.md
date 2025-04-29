@@ -17,7 +17,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ### 🔹 Data Preprocessing
 
 * Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
-
+* Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
 ---
 
 ### 🔹 Modelling
