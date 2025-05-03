@@ -48,6 +48,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
+### 🔹 Text mining Tutorial
+* Text mining part 1 - Text data preprocessing and EDA → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I).ipynb)
+
+---
+
 ## 🏆 Portfolio & Machine Learning Projects  
 - 🏥 **Machine Learning for Health & Bioinformatics** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 - 🛍️ **Machine Learning for Customer-Centric Industries** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
