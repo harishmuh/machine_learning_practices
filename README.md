@@ -48,8 +48,9 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
-### 🔹 Text mining Tutorial
+### 🔹 Text Mining Tutorial
 * Text mining part 1 - Text data preprocessing and EDA → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I).ipynb)
+* Text mining part 1 and 2 - TF-IDF concepts and application on classification model → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I_and_II).ipynb)
 
 ---
 
