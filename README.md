@@ -31,9 +31,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 ### 🔹 Supervised Machine Learning tutorial - Regression  
-📌 **Linear Regression**  
-* Linear regression concept  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
-* Single linear regression exercise : Horsepower & MPG Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)  
+📌 **Simple Linear Regression**  
+* Simple Linear regression concept  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Simple linear regression exercise : Horsepower & MPG Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
+
+📌 **Multiple Linear Regression**    
 * Multiple linear regression concept  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
 * University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
 
