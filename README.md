@@ -2,16 +2,16 @@
 
 Hello, data enthusiasts! 👋  
 
-This repository provides **FREE machine learning tutorials** for beginners. You’ll learn fundamental concepts through hands-on exercises that you can run in **Jupyter Notebook or Google Colab**.  
+This repository provides **FREE machine learning tutorials** for beginners. You’ll learn some machine learning concepts through hands-on exercises that you can run in **Jupyter Notebook or Google Colab**.  
 
 ---
 
 ## 📂 Tutorial Contents  
 
 ### 🔹 Fundamental Python for Machine Learning
-* Introduction to Python for machine learning → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
-* Fundamental Python (exercise) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
-
+* Introduction to Python for machine learning (Brief concept) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
+* Exercise: Fundamental Python → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
+* More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
 
 ### 🔹 Data Preprocessing
@@ -32,22 +32,21 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ---
 ### 🔹 Supervised Machine Learning tutorial - Regression  
 📌 **Simple Linear Regression**  
-* Simple Linear regression concept  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
-* Simple linear regression exercise : Horsepower & MPG Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
+* Simple Linear regression tutorial  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Exercise - Horsepower & MPG Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
 
 📌 **Multiple Linear Regression**    
-* Multiple linear regression concept  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
-* University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
-
-* California House Price Prediction I → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)  
-* California House Price Prediction II → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)  
+* Multiple linear regression tutorial  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
+* Exercise University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
+* Exercise - California House Price Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)  
+* Exercise - California House Price Prediction (Ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)  
 
 ---
 
 ### 🔹 Supervised Machine Learning Tutorial - Classification  
 📌 **Binary Classification**  
-* Churn Prediction (Streaming Service) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
-* Diabetes Early Risk Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
+* Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
+* Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
 
 ---
 
@@ -76,3 +75,9 @@ Ensure you have Python installed and run:
 pip install jupyter pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook
 
+---
+
+### ⭐ Support & Connect  
+If you find these tutorials helpful, feel free to **star the repositories** ⭐ and share them with others! 🚀  
+
+Happy learning! 😊
