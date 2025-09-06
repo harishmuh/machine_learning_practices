@@ -65,6 +65,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 1️⃣ **Run Notebooks in Google Colab**  
 Click on any notebook link, then click "Open in Colab."  
 
+or
+
 2️⃣ **Run Locally in Jupyter Notebook**  
 Ensure you have Python installed and run:  
 ```bashe
