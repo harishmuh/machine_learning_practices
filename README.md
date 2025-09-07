@@ -14,25 +14,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
 
-### 🔹 Data Preprocessing
-
-* Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
-* Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
-* Polynomial features tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
----
-
-### 🔹 Modelling
-* Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
-* Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
-
----
-### 🔹 Model Evaluation
-* Metrics - Classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
-
----
 ### 🔹 Supervised Machine Learning tutorial - Regression  
 📌 **Simple Linear Regression**  
-* Simple Linear regression tutorial  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Simple linear regression tutorial  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Simple linear regression tutorial for absolute beginner - from Coursera Project Network → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/Simple%20Linear%20Regression%20for%20Absolute%20Beginners_final.ipynb)
 * Exercise - Horsepower & MPG Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
 * Exercise - Horsepower & MPG Prediction (ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_Horsepower_mpg.ipynb)
 
@@ -48,6 +33,23 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Binary Classification**  
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
+
+---
+
+### 🔹 Data Preprocessing
+
+* Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
+* Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
+* Polynomial features tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
+---
+
+### 🔹 Modelling
+* Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
+* Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
+
+---
+### 🔹 Model Evaluation
+* Metrics - Classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
 
 ---
 
