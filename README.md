@@ -24,6 +24,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Multiple Linear Regression**    
 * Multiple linear regression tutorial - Fuel consumption per km (gasoline data)  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
+* Multiple linear regression tutorial - advertising data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_linear_regression_tutorial_advertising_dataset.ipynb)
 * Multiple linear regression tutorial - Tips data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression_Tips_data.ipynb)
 * Exercise University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
 * Exercise - California House Price Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)  
