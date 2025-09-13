@@ -39,8 +39,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
 
-📌 **Logistic regression**  
-  * Logistic regression tutorial→ [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
+📌 **Logistic regression classifier**  
+  * Logistic regression tutorial → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
+
+📌 **K-Nearest Neighbors classifier**
+  * KNN tutorial - White wine data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
 ---
 
 ### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
