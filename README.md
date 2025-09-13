@@ -14,7 +14,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
 
-### 🔹 Supervised Machine Learning tutorial - Regression  
+### 🔹 Supervised Machine Learning - Regression  
 📌 **Simple Linear Regression**  
 * Simple linear regression tutorial - fuel consumption per km (gasoline dataset) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
 * Simple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/simple_linear_regression_tutorial_tips_data.ipynb)
@@ -34,14 +34,14 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
-### 🔹 Supervised Machine Learning Tutorial - Classification  
+### 🔹 Supervised Machine Learning - Classification  
 📌 **Binary Classification**  
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
 
 ---
 
-### 🔹 Data Preparation/Preprocessing
+### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
 📌 **Scaling and Encoding**  
 * Feature engineering tutorial - Scaling and encoding - tips dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
 * Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
