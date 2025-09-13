@@ -53,7 +53,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
 
 📌 **Polynomial features**  
-* Polynomial features tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
+* Polynomial features tutorial - White wine data → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 ---
 
 ### 🔹 Modelling
