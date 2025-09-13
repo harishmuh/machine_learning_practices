@@ -42,8 +42,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Logistic regression classifier**  
   * Logistic regression tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
 
-📌 **K-Nearest Neighbors classifier**
+📌 **K-Nearest neighbors classifier**
   * KNN tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
+
+📌 **Decision tree classifier**
+  * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
 ---
 
 ### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
