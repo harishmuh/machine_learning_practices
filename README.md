@@ -66,6 +66,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ---
 
 ### 🔹 Modelling
+* Generalization concept - learning curve in classification  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Generalization_Concept_Learning_curve.ipynb)
 * Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
 * Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
