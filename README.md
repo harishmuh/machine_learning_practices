@@ -40,10 +40,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
 
 📌 **Logistic regression classifier**  
-  * Logistic regression tutorial → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
+  * Logistic regression tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
 
 📌 **K-Nearest Neighbors classifier**
-  * KNN tutorial - White wine data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
+  * KNN tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
 ---
 
 ### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
@@ -52,7 +52,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
   
 📌 **Feature Selection**    
-* Feature selection tutorial - breast cancer dataset and white wine → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/feature_selection_tutorial.ipynb)
+* Feature selection tutorial - breast cancer and white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/feature_selection_tutorial.ipynb)
 * Feature selection tutorial - adult dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
   
 📌 **Missing value and outlier handling**  
