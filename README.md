@@ -90,7 +90,7 @@ Ensure you have Python installed and run:
 ```bashe
 pip install jupyter pandas numpy scikit-learn matplotlib seaborn
 jupyter notebook
-
+```
 ---
 
 ### ⭐ Support & Connect  
