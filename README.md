@@ -41,9 +41,15 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
-### 🔹 Data Preprocessing
-* Feature engineering tutorial - Scaling and encoding  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
+### 🔹 Data Preparation/Preprocessing
+📌 **Scaling and Encoding**  
+* Feature engineering tutorial - Scaling and encoding - tips data  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
+* Exercise - scaling and encoding - Melbourne house price prediction data → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
+  
+📌 **Feature Selection**    
 * Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
+  
+📌 **Missing values and outlier handling**  
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
 * Polynomial features tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 ---
