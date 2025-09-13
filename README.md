@@ -16,17 +16,17 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ### 🔹 Supervised Machine Learning tutorial - Regression  
 📌 **Simple Linear Regression**  
-* Simple linear regression tutorial - Fuel consumption per km (gasoline data) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
-* Simple linear regression tutorial - Tips data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/simple_linear_regression_tutorial_tips_data.ipynb)
+* Simple linear regression tutorial - fuel consumption per km (gasoline dataset) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Simple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/simple_linear_regression_tutorial_tips_data.ipynb)
 * Simple linear regression tutorial for absolute beginner - from Coursera Project Network → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/Simple%20Linear%20Regression%20for%20Absolute%20Beginners_final.ipynb)
 * Simple linear regression tutorial - fuel consumption dataset - from Coursera Project Network → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_fuel_consumption_data_project_coursera_network.ipynb)
-* Exercise - Horsepower & MPG Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
-* Exercise - Horsepower & MPG Prediction (ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_Horsepower_mpg.ipynb)
+* Exercise - horsepower & MPG Prediction dataset (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_horsepower_and_mpg.ipynb)
+* Exercise - horsepower & MPG Prediction dataset (ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_Horsepower_mpg.ipynb)
 
 📌 **Multiple Linear Regression**    
-* Multiple linear regression tutorial - Fuel consumption per km (gasoline data)  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
-* Multiple linear regression tutorial - advertising data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_linear_regression_tutorial_advertising_dataset.ipynb)
-* Multiple linear regression tutorial - Tips data → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression_Tips_data.ipynb)
+* Multiple linear regression tutorial - fuel consumption per km (gasoline dataset)  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
+* Multiple linear regression tutorial - advertising dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_linear_regression_tutorial_advertising_dataset.ipynb)
+* Multiple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression_Tips_data.ipynb)
 * Exercise University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
 * Exercise - California House Price Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)  
 * Exercise - California House Price Prediction (Ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)
@@ -43,17 +43,17 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ### 🔹 Data Preparation/Preprocessing
 📌 **Scaling and Encoding**  
-* Feature engineering tutorial - Scaling and encoding - tips data  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
-* Exercise - scaling and encoding - Melbourne house price prediction data → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
+* Feature engineering tutorial - Scaling and encoding - tips dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
+* Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
   
 📌 **Feature Selection**    
-* Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
+* Feature selection tutorial - adult dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
   
 📌 **Missing value and outlier handling**  
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
 
 📌 **Polynomial features**  
-* Polynomial features tutorial - White wine data → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
+* Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 ---
 
 ### 🔹 Modelling
