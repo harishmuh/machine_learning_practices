@@ -47,6 +47,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
   
 📌 **Feature Selection**    
+* Feature selection tutorial - breast cancer dataset and white wine → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/feature_selection_tutorial.ipynb)
 * Feature selection tutorial - adult dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
   
 📌 **Missing value and outlier handling**  
