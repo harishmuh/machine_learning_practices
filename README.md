@@ -49,8 +49,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Feature Selection**    
 * Feature selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
   
-📌 **Missing values and outlier handling**  
+📌 **Missing value and outlier handling**  
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
+
+📌 **Polynomial features**  
 * Polynomial features tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 ---
 
