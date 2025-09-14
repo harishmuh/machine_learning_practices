@@ -65,9 +65,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 ---
 
-### 🔹 Modelling
-* Generalization - learning curve in classification  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Generalization_Concept_Learning_curve.ipynb)
-* Generalization (regularization) - ridge and lasso in regression → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Regularization_in_regression_Lasso_and_Ridge.ipynb)
+### 🔹 Model Building
+* Generalization tutorial - use of learning curve for classification model → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Generalization_Concept_Learning_curve.ipynb)
+* Generalization (regularization) tutorial - applying ridge and lasso in regression → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Regularization_in_regression_Lasso_and_Ridge.ipynb)
+* How to avoid data leakage by the use of a pipeline  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/data_leakage.ipynb)
 * Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
 * Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
