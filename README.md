@@ -35,9 +35,6 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ---
 
 ### 🔹 Supervised Machine Learning - Classification  
-📌 **Binary Classification**  
-* Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
-* Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
 
 📌 **Logistic regression classifier**  
   * Logistic regression tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
@@ -48,6 +45,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Decision tree classifier**
   * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
+
+📌 **Other classification models**  
+* Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
+* Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
+
 ---
 
 ### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
