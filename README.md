@@ -54,7 +54,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
-### 🔹 Data Preparation/Preprocessing - including data cleaning and data transformation
+### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
 📌 **Scaling and Encoding**  
 * Feature engineering tutorial - Scaling and encoding - tips dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
 * Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
