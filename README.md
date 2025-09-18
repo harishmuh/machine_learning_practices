@@ -43,6 +43,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **K-Nearest neighbors classifier**
   * KNN tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
+  * Exercise - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_KNN_Breast_cancer_dataset.ipynb)
 
 📌 **Decision tree classifier**
   * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
