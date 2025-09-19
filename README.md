@@ -69,6 +69,9 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Polynomial features**  
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
+
+📌 **Handling imbalanced data**  
+* Handling imbalanced data - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Handling_imbalance_data_tutorial_white_wine_data.ipynb)
 ---
 
 ### 🔹 Model Building
