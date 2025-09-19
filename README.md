@@ -47,6 +47,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Decision tree classifier**
   * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
+  * Exercise - Titanic dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Decision_Tree_Titanic_dataset.ipynb)
 
 📌 **Other classification models**  
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
