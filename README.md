@@ -49,10 +49,12 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
   * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
   * Exercise - Titanic dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Decision_Tree_Titanic_dataset.ipynb)
 
+📌 **Ensemble Models**
+* Ensemble various types: voting & stacking tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Ensemble_various_type_voting_and_stacking_tutorial_white_wine_dataset.ipynb) 
+
 📌 **Other classification models**  
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
-* Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)  
-
+* Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)
 ---
 
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
