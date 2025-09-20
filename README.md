@@ -107,15 +107,19 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
+### 🔹 Model Interpretation
+* Model interpretation for business and analytics tutorial → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
+
+---
+
 ### 🔹 Text Mining 
 * Text mining part 1 tutorial - Text data preprocessing and EDA → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I).ipynb)
 * Text mining part 1 and 2 tutorial - TF-IDF concepts and application on classification model → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I_and_II).ipynb)
 
 ---
+### 🔹 Timeseries Prediction Machine Learning
+* Time series forecasting tutorial → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_tutorial_shampo_sales_data.ipynb)
 
-### 🔹 Model interpretation
-* Machine learning Model interpretation for business and analytic → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
-  
 ---
 ## 🏆 Portfolio & Machine Learning Projects  
 - 🏥 **Machine Learning for Health & Bioinformatics** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
