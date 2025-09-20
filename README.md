@@ -114,7 +114,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ---
 
 ### 🔹 Model interpretation
-* Machine learning Model interpretation for business and analytic → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
+* Machine learning Model interpretation for business and analytic → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
   
 ---
 ## 🏆 Portfolio & Machine Learning Projects  
