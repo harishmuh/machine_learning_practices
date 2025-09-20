@@ -61,9 +61,9 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ### 🔹 Unsupervised Machine Learning 
 
 📌 **K-means clustering**  
-* K-means clustering tutorial - bodyheight husband and wife dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/kmeans_Clustering_tutorial_bodyheight_husband_and_wife_dataset.ipynb)
+* K-means clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/kmeans_Clustering_tutorial_bodyheight_husband_and_wife_dataset.ipynb)
 
-
+* Agglomerative clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/agglomerative_clustering.ipynb)
 
 
 ---
