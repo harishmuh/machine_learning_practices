@@ -66,8 +66,12 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Agglomerative clustering**  
 * Agglomerative clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/agglomerative_clustering.ipynb)
 
+📌 **DBSCAN clustering**  
+* DBSCAN Clustering → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/DBScan_Clustering.ipynb)
+
 📌 **Principal Component Analysis**  
 * Principal Component Analysis - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Principal_Component_Analysis_Breast_Cancer_Dataset.ipynb)
+
 ---
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
 📌 **Scaling and Encoding**  
