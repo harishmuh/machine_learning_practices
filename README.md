@@ -58,7 +58,15 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)
 ---
+### 🔹 Unsupervised Machine Learning 
 
+📌 **K-means clustering**  
+* K-means clustering tutorial - bodyheight husband and wife dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/kmeans_Clustering_tutorial_bodyheight_husband_and_wife_dataset.ipynb)
+
+
+
+
+---
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
 📌 **Scaling and Encoding**  
 * Feature engineering tutorial - Scaling and encoding - tips dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
