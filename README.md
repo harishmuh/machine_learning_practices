@@ -63,9 +63,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **K-means clustering**  
 * K-means clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/kmeans_Clustering_tutorial_bodyheight_husband_and_wife_dataset.ipynb)
 
+📌 **Agglomerative clustering**  
 * Agglomerative clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/agglomerative_clustering.ipynb)
 
-
+📌 **Principal Component Analysis**  
+* Principal Component Analysis - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Principal_Component_Analysis_Breast_Cancer_Dataset.ipynb)
 ---
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
 📌 **Scaling and Encoding**  
