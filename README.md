@@ -76,14 +76,15 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
 📌 **Scaling and Encoding**  
 * Feature engineering tutorial - Scaling and encoding - tips dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/scaling_encoding_tips_data.ipynb)
-* Exercise - scaling and encoding - Melbourne house price prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
+* Exercise - scaling and encoding - Melbourne house price dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Scaling_encoding_melb_house_price_prediction.ipynb)
   
 📌 **Feature Selection**    
 * Feature selection tutorial - breast cancer and white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/feature_selection_tutorial.ipynb)
 * Feature selection tutorial - adult dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Feature_Selection.ipynb)
   
-📌 **Missing value and outlier handling**  
+📌 **Missing value and outlier handling** 
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
+* Exercise: Missing value and outlier - Melbourne house price dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/missingvalue_outlier_handling_melb_house_price_prediction.ipynb)
 
 📌 **Polynomial features**  
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
