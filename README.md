@@ -90,6 +90,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Handling imbalanced data**  
 * Handling imbalanced data - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Handling_imbalance_data_tutorial_white_wine_data.ipynb)
+* Imbalanced data classification tutorial - diabetes dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
 ---
 
 ### 🔹 Model Building
@@ -97,11 +98,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Generalization**  
 * Generalization tutorial - use of learning curve for classification model → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Generalization_Concept_Learning_curve.ipynb)
 * Generalization (regularization) tutorial - applying ridge and lasso in regression → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Regularization_in_regression_Lasso_and_Ridge.ipynb)
-* Exercise: Generalization in linear regression models → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Generalization_in_Linear_regression_model.ipynb)
+* Exercise: Generalization in linear regression models - university admission prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Generalization_in_Linear_regression_model.ipynb)
 
 📌 **Other model-building tips**  
 * How to avoid data leakage by the use of a pipeline  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/data_leakage.ipynb)
-* Imbalanced data classification tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
 * Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
 ---
