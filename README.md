@@ -10,7 +10,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ### 🔹 Fundamental Python for Machine Learning
 * Introduction to Python for machine learning (Brief concept) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
-* Exercise: Fundamental Python → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
+* Exercise - Fundamental Python → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
 * More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
 
@@ -84,7 +84,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
   
 📌 **Missing value and outlier handling** 
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
-* Exercise: Missing value and outlier - Melbourne house price dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/missingvalue_outlier_handling_melb_house_price_prediction.ipynb)
+* Exercise - Missing value and outlier - Melbourne house price dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/missingvalue_outlier_handling_melb_house_price_prediction.ipynb)
 
 📌 **Polynomial features**  
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
@@ -99,7 +99,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Generalization**  
 * Generalization tutorial - use of learning curve for classification model → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Generalization_Concept_Learning_curve.ipynb)
 * Generalization (regularization) tutorial - applying ridge and lasso in regression → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Regularization_in_regression_Lasso_and_Ridge.ipynb)
-* Exercise: Generalization in linear regression models - university admission prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Generalization_in_Linear_regression_model.ipynb)
+* Exercise - Generalization in linear regression models - university admission prediction dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Generalization_in_Linear_regression_model.ipynb)
 
 📌 **Other model-building tips**  
 * How to avoid data leakage by the use of a pipeline  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/data_leakage.ipynb)
