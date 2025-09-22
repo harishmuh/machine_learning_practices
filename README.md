@@ -107,8 +107,12 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 ### 🔹 Model Evaluation
+
+📌 **Model selection** 
 * Cross-validation, hyperparameter tuning, and model selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/model_selection.ipynb)
 * Exercise - Model selection → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Model_selection_Titanic_dataset_.ipynb)
+
+📌 **Metrics** 
 * Classification and regression metrics tutorial - tips dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_and_regression_metric_evaluation_tips_dataset.ipynb)
 * Exercise: Classification metrics - employees dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
 
