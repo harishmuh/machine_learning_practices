@@ -92,6 +92,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Handling imbalanced data**  
 * Handling imbalanced data - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Handling_imbalance_data_tutorial_white_wine_data.ipynb)
 * Imbalanced data classification tutorial - diabetes dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
+* Exercise: Handling imbalance data & classification - stroke prediction → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Imbalance_data_stroke_prediction.ipynb)
 ---
 
 ### 🔹 Model Building
