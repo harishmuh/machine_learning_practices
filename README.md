@@ -103,7 +103,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Other model-building tips**  
 * How to avoid data leakage by the use of a pipeline  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/data_leakage.ipynb)
-* Algorithmic chain - classification → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
+
 
 ---
 ### 🔹 Model Evaluation
@@ -112,10 +112,11 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Cross-validation, hyperparameter tuning, and model selection tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/model_selection.ipynb)
 * Exercise - Model selection → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Model_selection_Titanic_dataset_.ipynb)
 
-📌 **Metrics** 
+📌 **Metrics and Model evaluation** 
 * Classification and regression metrics tutorial - tips dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_and_regression_metric_evaluation_tips_dataset.ipynb)
 * Exercise: Classification metrics - employees dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
 * Exercise: regression metrics (MAE)  - Insurance cost prediction dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_metrics_Insurance_dataset.ipynb)
+* Exercise: Model evaluation and algorithmic chain - car insurance claim prediction → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Algorithmic_chain_classification.ipynb)
 
 ---
 
