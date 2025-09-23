@@ -115,7 +115,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Metrics** 
 * Classification and regression metrics tutorial - tips dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_and_regression_metric_evaluation_tips_dataset.ipynb)
 * Exercise: Classification metrics - employees dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Classification_Metrics.ipynb)
-* Exercise: regression (MAE)  - Insurance cost prediction dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_metrics_Insurance_dataset.ipynb)
+* Exercise: regression metrics (MAE)  - Insurance cost prediction dataset  → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_metrics_Insurance_dataset.ipynb)
 
 ---
 
