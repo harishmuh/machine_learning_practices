@@ -37,13 +37,13 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ### 🔹 Supervised Machine Learning - Classification  
 
 📌 **Logistic regression classifier**  
-  * Logistic regression tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
-  * Exercise - Survival prediction - Titanic dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Logistic_Regression_Titanic_dataset.ipynb)
+  * Logistic regression tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
+  * Exercise - Survival prediction - Titanic → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Logistic_Regression_Titanic_dataset.ipynb)
   * Exercise - Buying car prediction - Car potential buyer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Car_potential_buyer_classification.ipynb)
 
 📌 **K-Nearest neighbors classifier**
-  * KNN tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
-  * Exercise - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Modified_Exercise_KNN_Breast_cancer_dataset.ipynb)
+  * KNN tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/KNN_tutorial_white_wine_data.ipynb)
+  * Exercise - Breast cancer classification → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Modified_Exercise_KNN_Breast_cancer_dataset.ipynb)
 
 📌 **Decision tree classifier**
   * Decision tree tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Decision_tree_tutorial_white_wine_data.ipynb)
@@ -51,7 +51,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Ensemble Models**
 * Ensemble various types: voting & stacking tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Ensemble_various_type_voting_and_stacking_tutorial_white_wine_dataset.ipynb) 
-* Ensemble similar type tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_model_tutorial_similar_white_wine_dataset.ipynb)
+* Ensemble similar type tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_model_tutorial_similar_white_wine_dataset.ipynb)
+* Exercise - Ensemble boosting - Churn prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_similar_churn_prediction.ipynb)
 
 
 📌 **Other classification models**  
