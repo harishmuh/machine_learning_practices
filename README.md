@@ -59,19 +59,21 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - Churn Prediction of streaming service (Random Forest and Decision Tree) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/Churn.ipynb)  
 * Exercise - Diabetes Early Risk Prediction (Random Forest and XGBoost) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Supervised_Classification/diabetes_risk.ipynb)
 ---
+
 ### 🔹 Unsupervised Machine Learning 
+
+📌 **Principal Component Analysis**  
+* Principal Component Analysis - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Principal_Component_Analysis_Breast_Cancer_Dataset.ipynb)
 
 📌 **K-means clustering**  
 * K-means clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/kmeans_Clustering_tutorial_bodyheight_husband_and_wife_dataset.ipynb)
+* Exercise - PCA and K-means - clustering credit card customers → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_PCA_kmeans_customer_credit_card_cluster.ipynb)
 
 📌 **Agglomerative clustering**  
 * Agglomerative clustering tutorial - bodyheight dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/agglomerative_clustering.ipynb)
 
 📌 **DBSCAN clustering**  
 * DBSCAN Clustering → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/DBScan_Clustering.ipynb)
-
-📌 **Principal Component Analysis**  
-* Principal Component Analysis - Breast cancer dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Principal_Component_Analysis_Breast_Cancer_Dataset.ipynb)
 
 ---
 ### 🔹 Data Preparation: data cleaning, preprocessing, and data transformation
