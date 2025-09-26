@@ -134,7 +134,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Text mining part 1 and 2 tutorial - TF-IDF concepts and application (SMS spam or not spam classification) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Text_Mining_(Part_I_and_II).ipynb)
 
 ---
-### 🔹 Timeseries Prediction Machine Learning
+### 🔹 Supervised Machine Learning - Timeseries Prediction 
 * Time series forecasting tutorial - shampo sales prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_tutorial_shampo_sales_data.ipynb)
 * Exercise: Time series prediction - ARIMA and Prophet - Air passengers prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_ML_tutorial.ipynb)
 
