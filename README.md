@@ -135,7 +135,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 ### 🔹 Timeseries Prediction Machine Learning
-* Time series forecasting tutorial → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_tutorial_shampo_sales_data.ipynb)
+* Time series forecasting tutorial - shampo sales prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_tutorial_shampo_sales_data.ipynb)
+* Exercise: Time series prediction - ARIMA and Prophet - Air passengers prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_ML_tutorial.ipynb)
 
 ---
 ## 🏆 Portfolio & Machine Learning Projects  
