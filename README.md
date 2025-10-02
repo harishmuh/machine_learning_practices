@@ -89,8 +89,9 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Binning tutorial → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Binning.ipynb)
 * Exercise - Missing value and outlier - Melbourne house price dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/missingvalue_outlier_handling_melb_house_price_prediction.ipynb)
 
-📌 **Polynomial features**  
+📌 **Generate new features - Polynomial features**  
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
+* Exercise - Generate new polynomial features - income classification (adult dataset) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercises_Generate_new_features_polynomial.ipynb)
 
 📌 **Handling imbalanced data**  
 * Handling imbalanced data - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Handling_imbalance_data_tutorial_white_wine_data.ipynb)
