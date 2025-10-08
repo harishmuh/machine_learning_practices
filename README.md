@@ -52,7 +52,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 📌 **Ensemble Models**
 * Ensemble various types: voting & stacking tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Ensemble_various_type_voting_and_stacking_tutorial_white_wine_dataset.ipynb) 
 * Ensemble similar type tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_model_tutorial_similar_white_wine_dataset.ipynb)
-* Exercise - Ensemble boosting - Churn prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_similar_churn_prediction.ipynb)
+* Exercise - Ensemble boosting - Customer Bank Churn prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_similar_churn_prediction.ipynb)
 
 
 📌 **Other classification models**  
