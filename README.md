@@ -129,7 +129,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ---
 
 ### 🔹 Model Interpretation
-* Model interpretation for business and analytics tutorial → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
+
+📌 **Interpretable and Explainable Machine Learning (XAI)**  
+* Model interpretation for business and analytics tutorial - Titanic survival prediction → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
+* Exercise: Ensemble Model and Explainable Machine Learning (Feature importance, SHAP, LIME) - Bank customer churn prediction → [Open notebook]()
 
 ---
 
