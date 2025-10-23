@@ -14,7 +14,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
 
-### 🔹 Supervised Machine Learning - Regression  
+### 🔹 Supervised Machine Learning - Regression Models 
 📌 **Simple Linear Regression**  
 * Simple linear regression tutorial - fuel consumption per km (gasoline dataset) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
 * Simple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/simple_linear_regression_tutorial_tips_data.ipynb)
@@ -34,7 +34,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 
-### 🔹 Supervised Machine Learning - Classification  
+### 🔹 Supervised Machine Learning - Classification Models
 
 📌 **Logistic regression classifier**  
   * Logistic regression tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Logistic_regression_tutorial.ipynb)
@@ -50,8 +50,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
   * Exercise - Titanic dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercise_Decision_Tree_Titanic_dataset.ipynb)
 
 📌 **Ensemble Models**
-* Ensemble various types: voting & stacking tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Ensemble_various_type_voting_and_stacking_tutorial_white_wine_dataset.ipynb) 
-* Ensemble similar type tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_model_tutorial_similar_white_wine_dataset.ipynb)
+* Ensemble various types: voting & stacking models tutorial - white wine dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Ensemble_various_type_voting_and_stacking_tutorial_white_wine_dataset.ipynb) 
+* Ensemble similar type: Bagging and Boosting models tutorial - white wine quality prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_model_tutorial_similar_white_wine_dataset.ipynb)
 * Exercise - Ensemble boosting - Customer Bank Churn prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_similar_churn_prediction.ipynb)
 
 
