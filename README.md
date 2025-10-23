@@ -132,7 +132,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Interpretable and Explainable Machine Learning (XAI)**  
 * Model interpretation for business and analytics tutorial - Titanic survival prediction → [Open colab](https://github.com/harishmuh/machine_learning_practices/blob/main/ML_for_business_analytics_colab.ipynb)/[vscode](https://github.com/harishmuh/machine_learning_practices/blob/main/ML%20for%20business_analytics_vscode.ipynb)
-* Exercise: Ensemble Model and Explainable Machine Learning (Feature importance, SHAP, LIME) - Bank customer churn prediction → [Open notebook]()
+* Exercise: Ensemble Model and Explainable Machine Learning (Feature importance, SHAP, LIME) - Bank customer churn prediction → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/ensemble_similar_XAI_Eng%20-%20Gradboost.ipynb)
 
 ---
 
@@ -147,7 +147,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 ## 🏆 Portfolio & Machine Learning Projects  
-- 🏥 **Machine Learning for Health & Bioinformatics** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
+- 🏥 **Machine Learning for biomedical & healthcare** → [View Projects]([https://github.com/harishmuh/machine_learning_projects/tree/main](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/tree/main))  
 - 🛍️ **Machine Learning for Customer-Centric Industries** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 - 📈 **Machine Learning for Price Prediction** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 
