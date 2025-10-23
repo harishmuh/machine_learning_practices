@@ -9,7 +9,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 ## 📂 Tutorial Contents  
 
 ### 🔹 Fundamental Python for Machine Learning
-* Introduction to Python for machine learning (Brief concept) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
+* Introduction to Python for machine learning (summarized concept) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Python__Introduction_for_Machine_Learning_and_AI.ipynb)
 * Exercise - Fundamental Python → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Fundamental_Python_Exercise.ipynb)
 * More comprehensive Python tutorials and exercises → [Open Complete Repository](https://github.com/harishmuh/Python-simple-tutorials)
 ---
@@ -147,7 +147,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ---
 ## 🏆 Portfolio & Machine Learning Projects  
-- 🏥 **Machine Learning for biomedical & healthcare** → [View Projects]([https://github.com/harishmuh/machine_learning_projects/tree/main](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/tree/main))  
+- 🏥 **Machine Learning for biomedical & healthcare** → [View Projects](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/tree/main)  
 - 🛍️ **Machine Learning for Customer-Centric Industries** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 - 📈 **Machine Learning for Price Prediction** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 
