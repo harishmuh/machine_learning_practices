@@ -144,10 +144,17 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise: Time series prediction - ARIMA and Prophet - Air passengers prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_ML_tutorial.ipynb)
 
 ---
+### 🔹 More machine learning tutorial & repositories...
+* Machine learning specialization by Andrew Ng - Stanford University & DeepLearning.ai → [Open Repository](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera)
+* Machine learning with Python - IBM Data Science Professional  → [Open Repository](https://github.com/harishmuh/IBM_Data_Science_Professional_Certificate_2025/tree/main/9.%20Machine%20Learning%20with%20Python) 
+* Deep Learning Study - Collection of deep learning tutorials → [Open Repository](https://github.com/harishmuh/Deep-Learning_study)
+  
+---
+
 ## 🏆 Portfolio & Machine Learning Projects  
-- 🏥 **Machine Learning for biomedical & healthcare** → [View Projects](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/tree/main)  
-- 🛍️ **Machine Learning for Customer-Centric Industries** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
-- 📈 **Machine Learning for Price Prediction** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
+* 🏥 **Machine Learning for biomedical & healthcare** → [View Projects](https://github.com/harishmuh/Healthcare-informatics-and-disease-prediction/tree/main)  
+* 🛍️ **Machine Learning for Customer-Centric Industries** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
+* 📈 **Machine Learning for Price Prediction** → [View Projects](https://github.com/harishmuh/machine_learning_projects/tree/main)  
 
 ---
 
