@@ -91,7 +91,8 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Polynomial features tutorial - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Polynomial_features.ipynb)
 * Exercise - Generate new polynomial features - income classification (adult dataset) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Exercises_Generate_new_features_polynomial.ipynb)
 
-📌 **Handling imbalanced data**  
+📌 **Handling imbalanced data**
+* Imbalanced data effect - Credit card bank dataset (Pahlevi, 2023) → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/credit_card_churn_Decision_Tree_Imbalanced_data_SaidMP_books.ipynb) 
 * Handling imbalanced data - white wine dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Handling_imbalance_data_tutorial_white_wine_data.ipynb)
 * Imbalanced data tutorial - diabetes dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalanced_data_Classification.ipynb)
 * Imbalanced data - Bank loan dataset → [Open notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Imbalance_tutorial_Bank_loan_data_.ipynb)
