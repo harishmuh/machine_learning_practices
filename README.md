@@ -16,7 +16,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 ### 🔹 Supervised Machine Learning - Regression Models 
 📌 **Simple Linear Regression**  
-* Simple linear regression tutorial - fuel consumption per km (gasoline dataset) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
+* Simple linear regression tutorial - fuel (gasoline) consumption per km (Kurniawan, 2020) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_Regression.ipynb)
 * Simple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/simple_linear_regression_tutorial_tips_data.ipynb)
 * Simple linear regression tutorial for absolute beginner - from Coursera Project Network → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/Simple%20Linear%20Regression%20for%20Absolute%20Beginners_final.ipynb)
 * Simple linear regression tutorial - fuel consumption dataset - from Coursera Project Network → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_fuel_consumption_data_project_coursera_network.ipynb)
@@ -24,9 +24,10 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise - horsepower & MPG Prediction dataset (ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Simple_linear_regression_Horsepower_mpg.ipynb)
 
 📌 **Multiple Linear Regression**    
-* Multiple linear regression tutorial - fuel consumption per km (gasoline dataset)  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
+* Multiple linear regression tutorial - fuel (gasoline) consumption per km (Kurniawan, 2020)  → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression.ipynb)
 * Multiple linear regression tutorial - advertising dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_linear_regression_tutorial_advertising_dataset.ipynb)
 * Multiple linear regression tutorial - restaurant tips dataset → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Multiple_Linear_Regression_Tips_data.ipynb)
+* Multiple linear regression tutorial - NBA player salary prediction (Pahlevi, 2023) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Linear_regression_NBA_player_salary_prediction.ipynb)
 * Exercise University Admission Prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/linear_regression.ipynb)  
 * Exercise - California House Price Prediction (ver 1) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/California_house_Linear_Regression.ipynb)  
 * Exercise - California House Price Prediction (Ver 2) → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/supervised_regression/California_housing_regression.ipynb)
