@@ -154,7 +154,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 
 📌 **Deep learning Study**
 * Collection of deep learning tutorials → [Open Repository](https://github.com/harishmuh/Deep-Learning_study)
-* Deep learning specialization by Andrew NG (Stanford University & DeepLearning.ai → [Open Repository](https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng)
+* Deep learning specialization by Andrew Ng (Stanford University & DeepLearning.ai) → [Open Repository](https://github.com/harishmuh/Deep-Learning-Specialization---Andrew-Ng)
   
 📌 **Machine learning portfolio**
 * ML projects for biomedical & health care, customer-centric industries, and price prediction → [Open Repository](https://github.com/harishmuh/machine_learning_projects)
