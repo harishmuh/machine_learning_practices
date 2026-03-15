@@ -1,3 +1,6 @@
+
+![ML algorithms](https://media.licdn.com/dms/image/v2/C5612AQHkXSlmOYxGQg/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1629133024168?e=1775088000&v=beta&t=NJOsv69FDd8vP0x4tOFqZFDPywYQw0IJc2YYQMSB1fQ)
+
 # 🚀 Simple Machine Learning Tutorials for Beginners  
 
 Hello, data enthusiasts! 👋  
