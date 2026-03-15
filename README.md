@@ -146,7 +146,7 @@ This repository provides **FREE machine learning tutorials** for beginners. You�
 * Exercise: Time series prediction - ARIMA and Prophet - Air passengers prediction → [Open Notebook](https://github.com/harishmuh/machine_learning_practices/blob/main/Timeseries_ML_tutorial.ipynb)
 
 ---
-### 🔹 More machine learning tutorial & repositories...
+### 🔹 More machine learning tutorials & repositories...
 
 📌 **Machine learning courses from other sources**  
 * Machine learning specialization by Andrew Ng - Stanford University & DeepLearning.ai → [Open Repository](https://github.com/harishmuh/Machine-Learning-Specialization-Coursera)
